@@ -1,5 +1,5 @@
 # Smart Mess - Food Waste Management System 🍱
-**Team:** [Your Team Name]
+**Team:** Return 0;
 **Event:** GDG On Campus TechSprint
 
 ## 💡 The Problem
@@ -16,4 +16,4 @@ Smart Mess is a real-time tracking system powered by **Google Firebase**.
 * **Hosting:** GitHub Pages
 
 ## 📸 How to Run
-View the Live MVP here: [PASTE YOUR LIVE MVP LINK HERE]
+View the Live MVP here: https://dewang306.github.io/smart-mess-mvp/
